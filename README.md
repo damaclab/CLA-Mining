@@ -1,1 +1,1 @@
-# CLA-Mining
+# Cellular Learning Automata based Mining
